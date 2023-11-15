@@ -1,5 +1,5 @@
 # All Rights Reserved
-This is the official Block Studio's website as
-well with Philip's Ruins.
+A Demo website for JavaScript and HTML practice.
+
 Created by PhilipModDev.
 
